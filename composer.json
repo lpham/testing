@@ -2,5 +2,6 @@
     "name": "lanpham/testing",
     "description": "packagist testing package",
     "prefer-stable": true,
+    "minimum-stability":"dev",
     "require": {}
 }
